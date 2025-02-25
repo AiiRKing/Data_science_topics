@@ -7,7 +7,8 @@ Beginner Topics
         What is Data Science?
         -Data science is an interdisciplinary field that combines statistics, mathematics, computer science, and domain expertise to extract meaningful insights and 
         knowledge from structured and unstructured data It involves collecting, cleaning, analyzing, and interpreting data to solve complex problems, make data-driven
-        the decision, and predict future trends.
+        the decision, and predict future trends. In summary, Data science is a powerful field that leverages data to solve real-world problems, drive innovation, and
+        value across industries it combines technical skills, domain knowledge, and creativity to turn raw data into actionable insights.
 
         Data Science lifecycle (CRISP-DM)
 
